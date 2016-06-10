@@ -1,5 +1,9 @@
 # starter-node-bot
 
+<p align="center">
+	<img src="https://github.com/ouadie-lahdioui/kabour-bot/blob/master/resources/kabour.jpeg"> 
+</p>
+
 ## Overview
 A simple starting point for creating a Beep Boop hostable, Node.js based Slack bot with botkit
 
